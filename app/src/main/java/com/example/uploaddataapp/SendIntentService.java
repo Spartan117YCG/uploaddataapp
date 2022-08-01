@@ -91,7 +91,7 @@ public class SendIntentService extends IntentService {
     // both internal and external storage.
     private static final String password = "s3cr3t";
 
-    private static String SERVER_UPLOAD_URL = "https://127.0.0.1/"; // Insert server hostname
+    private static String SERVER_UPLOAD_URL = "1c2e08aa801c.mylabserver.com"; // Insert server hostname
 
     private static final byte[] NOT_SO_SECRET_AES_KEY = {
             (byte) 0x00,
